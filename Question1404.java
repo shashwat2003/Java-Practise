@@ -1,3 +1,7 @@
+// Question: Count the number of consecutive letters and display them
+// Input: AAABBCCDDD
+// Output: A3B2C2D3
+
 import java.util.Scanner;
 
 public class Question1404 {

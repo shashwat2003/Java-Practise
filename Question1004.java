@@ -1,3 +1,10 @@
+// Question: Given a positive integer, check if the number's prime factors are only
+// 2,3, or/and 5
+// Input: 8
+// Output: true
+// Input: 70
+// Output: false
+
 import java.util.Scanner;
 
 public class Question1004 {

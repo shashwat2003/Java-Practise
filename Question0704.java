@@ -1,3 +1,7 @@
+// Question: Given two positive numbers X and Y, check if Y is a power of X or not
+// Input: 2 16
+// Output: Yes, it can be expressed as 2 to the power 4
+
 import java.util.Scanner;
 import java.lang.Math;
 
